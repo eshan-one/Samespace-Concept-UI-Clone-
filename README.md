@@ -3,6 +3,7 @@
 ## Description
 
 A modern static and responsive UX/UI landing Page built with React + Vite. 
+This project is a UI clone of Samespace, developed using React and styled with Tailwind CSS. It serves as an elegant web presence, perfect for showcasing products, services, or personal portfolios, while closely mirroring the intuitive and professional design of Samespace's user interface.
 
 ## Screenshots and GIF
 
